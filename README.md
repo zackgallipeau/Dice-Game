@@ -1,4 +1,7 @@
 # Dice-Game
+MY ROLE: JavaScript developer (HTML and CSS provided for me)
+
+
 A 2 player game where each player rolls dice to try to get to 100 total points.
 
 To launch, double click index.html
